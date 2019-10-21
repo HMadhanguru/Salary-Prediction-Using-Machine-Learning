@@ -1,0 +1,2 @@
+# Salary-Prediction-Using-Machine-Learning
+Developed and deployed a salary prediction application which business' HR and talent functions can use to optimize their compensation strategy, acquire the best talent and improve retention rate in competitive labor markets. This application was developed in Python, relies on a poly-regression regression model, was trained on 115 MB data set with 9 features and achieved a 357 MSE or accuracy
